@@ -1,2 +1,2 @@
 # cityGenerator
-Basic procedural city generator. Python script for use in Maya.
+Basic procedural city generator tool for Maya, Python script
