@@ -7,5 +7,9 @@ This tool was developed to learn more about procedural modeling and python scrip
 In the future, I hope to further develop this tool by adding windows and doors to the buildings and allowing users to adjust the number and orientation of roads.
 
 ## Implementation Instructions
+To use this script, copy the python script into a new Python tab of the Script Editor in Maya. The script can be used as a tool by saving the script to the shelf.
 
 ## Usage Instructions
+To adjust the size of the overall city, change the base width and height values.
+
+To adjust the size of the buildings, change the size of the building bases or maximum height. Smaller building base values will result in skinnier buildings, whereas larger values will result in wider building bases.
